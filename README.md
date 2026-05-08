@@ -19,6 +19,7 @@ This repository contains my daily LeetCode problem-solving practice in Java.
 
 ## Language Used
 - Java
+- C
 
 ## Progress
 Solving problems daily and uploading solutions consistently.
