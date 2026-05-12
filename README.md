@@ -62,6 +62,7 @@ Solving problems daily and uploading solutions consistently.
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0048-rotate-image) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Matrix
@@ -73,6 +74,7 @@ Solving problems daily and uploading solutions consistently.
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0061-rotate-list) |
 ## Two Pointers
 |  |
@@ -97,4 +99,8 @@ Solving problems daily and uploading solutions consistently.
 | ------- |
 | [1914-cyclically-rotating-a-grid](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [2553-separate-the-digits-in-an-array](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
