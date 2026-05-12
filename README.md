@@ -43,4 +43,12 @@ Solving problems daily and uploading solutions consistently.
 |  |
 | ------- |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+## String
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0796-rotate-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
