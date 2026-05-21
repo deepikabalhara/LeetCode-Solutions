@@ -1,3 +1,8 @@
+## 👩‍💻 About
+Hi, I'm Deepika! I solve LeetCode problems daily to strengthen my DSA skills and prepare for placements.
+- 🔗 [LeetCode Profile](https://leetcode.com/u/DeepikaBalhara/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/deepika-balhara/)
+
 # LeetCode Daily Solutions
 
 This repository contains my daily LeetCode problem-solving practice in Java.
@@ -21,8 +26,13 @@ This repository contains my daily LeetCode problem-solving practice in Java.
 - Java
 - C
 
-## Progress
-Solving problems daily and uploading solutions consistently.
+## 📊 Progress
+| Difficulty | Count |
+|------------|-------|
+| 🟢 Easy    | 8     |
+| 🟡 Medium  | 12    |
+| 🔴 Hard    | 3     |
+| **Total**  | **23**|
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
