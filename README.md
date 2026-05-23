@@ -92,6 +92,7 @@ Inside each folder you'll find the solution file in Java or C.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0048-rotate-image) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Matrix
