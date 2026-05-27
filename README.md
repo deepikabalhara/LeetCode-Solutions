@@ -90,6 +90,7 @@ Inside each folder you'll find the solution file in Java or C.
 | [1871-jump-game-vii](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1871-jump-game-vii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -130,6 +131,7 @@ Inside each folder you'll find the solution file in Java or C.
 | [2784-check-if-array-is-good](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/2784-check-if-array-is-good) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Breadth-First Search
 |  |
