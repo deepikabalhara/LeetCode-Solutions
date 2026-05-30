@@ -64,6 +64,7 @@ Inside each folder you'll find the solution file in Java or C.
 | [2784-check-if-array-is-good](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/2784-check-if-array-is-good) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3093-longest-common-suffix-queries) |
+| [3161-block-placement-queries](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3161-block-placement-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3660-jump-game-ix](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3660-jump-game-ix) |
@@ -169,6 +170,7 @@ Inside each folder you'll find the solution file in Java or C.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [2540-minimum-common-value](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/2540-minimum-common-value) |
+| [3161-block-placement-queries](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3161-block-placement-queries) |
 ## Sliding Window
 |  |
 | ------- |
@@ -191,6 +193,14 @@ Inside each folder you'll find the solution file in Java or C.
 | ------- |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3093-longest-common-suffix-queries) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3161-block-placement-queries) |
+## Segment Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3161-block-placement-queries) |
 <!---LeetCode Topics End-->
 
 
