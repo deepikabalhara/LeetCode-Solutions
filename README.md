@@ -57,6 +57,7 @@ Inside each folder you'll find the solution file in Java or C.
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1861-rotating-the-box](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1914-cyclically-rotating-a-grid) |
+| [2126-destroying-asteroids](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/2126-destroying-asteroids) |
 | [2540-minimum-common-value](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -72,11 +73,13 @@ Inside each folder you'll find the solution file in Java or C.
 |  |
 | ------- |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [2126-destroying-asteroids](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/2126-destroying-asteroids) |
 ## Sorting
 |  |
 | ------- |
 | [1340-jump-game-v](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1340-jump-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [2126-destroying-asteroids](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/2126-destroying-asteroids) |
 | [2784-check-if-array-is-good](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/2784-check-if-array-is-good) |
 ## Dynamic Programming
 |  |
