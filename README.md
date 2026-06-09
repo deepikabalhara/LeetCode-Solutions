@@ -75,6 +75,7 @@ Inside each folder you'll find the solution file in Java or C.
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3660-jump-game-ix](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3660-jump-game-ix) |
+| [3689-maximum-total-subarray-value-i](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
 ## Greedy
 |  |
 | ------- |
@@ -83,6 +84,7 @@ Inside each folder you'll find the solution file in Java or C.
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3689-maximum-total-subarray-value-i](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
 ## Sorting
 |  |
 | ------- |
