@@ -129,6 +129,7 @@ Inside each folder you'll find the solution file in Java or C.
 | [0007-reverse-integer](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0048-rotate-image) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -217,6 +218,7 @@ Inside each folder you'll find the solution file in Java or C.
 |  |
 | ------- |
 | [1306-jump-game-iii](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1306-jump-game-iii) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -244,6 +246,7 @@ Inside each folder you'll find the solution file in Java or C.
 |  |
 | ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Tree
 |  |
 | ------- |
