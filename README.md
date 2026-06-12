@@ -74,6 +74,7 @@ Inside each folder you'll find the solution file in Java or C.
 | [3093-longest-common-suffix-queries](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3093-longest-common-suffix-queries) |
 | [3161-block-placement-queries](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3161-block-placement-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -107,6 +108,7 @@ Inside each folder you'll find the solution file in Java or C.
 | [1340-jump-game-v](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1340-jump-game-v) |
 | [1871-jump-game-vii](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1871-jump-game-vii) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3660-jump-game-ix](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3660-jump-game-ix) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -133,6 +135,7 @@ Inside each folder you'll find the solution file in Java or C.
 | [0048-rotate-image](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0048-rotate-image) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -224,10 +227,12 @@ Inside each folder you'll find the solution file in Java or C.
 | ------- |
 | [1306-jump-game-iii](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1306-jump-game-iii) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Trie
 |  |
 | ------- |
@@ -252,6 +257,7 @@ Inside each folder you'll find the solution file in Java or C.
 | ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Tree
 |  |
 | ------- |
