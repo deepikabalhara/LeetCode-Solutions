@@ -53,6 +53,7 @@ Inside each folder you'll find the solution file in Java or C.
 | [0088-merge-sorted-array](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0169-majority-element](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0169-majority-element) |
 | [1306-jump-game-iii](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1345-jump-game-iv) |
@@ -96,6 +97,7 @@ Inside each folder you'll find the solution file in Java or C.
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0169-majority-element) |
 | [1340-jump-game-v](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1340-jump-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2126-destroying-asteroids](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/2126-destroying-asteroids) |
@@ -168,6 +170,7 @@ Inside each folder you'll find the solution file in Java or C.
 | ------- |
 | [0001-two-sum](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0169-majority-element) |
 | [1345-jump-game-iv](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -224,6 +227,7 @@ Inside each folder you'll find the solution file in Java or C.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0169-majority-element) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -268,6 +272,10 @@ Inside each folder you'll find the solution file in Java or C.
 |  |
 | ------- |
 | [3691-maximum-total-subarray-value-ii](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3691-maximum-total-subarray-value-ii) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
 
 
