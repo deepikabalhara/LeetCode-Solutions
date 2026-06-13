@@ -122,6 +122,7 @@ Inside each folder you'll find the solution file in Java or C.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0014-longest-common-prefix) |
 | [0796-rotate-string](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0796-rotate-string) |
 | [1871-jump-game-vii](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1871-jump-game-vii) |
@@ -139,6 +140,7 @@ Inside each folder you'll find the solution file in Java or C.
 | ------- |
 | [0002-add-two-numbers](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0048-rotate-image) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -174,6 +176,7 @@ Inside each folder you'll find the solution file in Java or C.
 | ------- |
 | [0001-two-sum](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0169-majority-element) |
 | [1345-jump-game-iv](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
