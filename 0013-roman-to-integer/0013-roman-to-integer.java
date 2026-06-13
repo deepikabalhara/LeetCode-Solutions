@@ -1,24 +1,40 @@
 class Solution {
     public int romanToInt(String s) {
-        Map<Character ,Integer> m = new HashMap<>();
-        m.put('I',1);
-        m.put('V',5);
-        m.put('X',10);
-        m.put('L',50);
-        m.put('C',100);
-        m.put('D',500);
-        m.put('M',1000);
-
-        int ans =0;
-
+        int sum=0;
         for(int i =0 ; i<s.length();i++)
         {
-            if(i<s.length()-1 && m.get(s.charAt(i))<m.get(s.charAt(i+1))){
-                ans -=m.get(s.charAt(i));
-            }else{
-                ans += m.get(s.charAt(i));
+            int c = getValue(s.charAt(i));
+            if(i+1<s.length() && c<getValue(s.charAt(i+1))){
+                sum-=c;
+            }
+            else{
+                sum+=c;
+
             }
         }
-        return ans;
+        return sum;
     }
+        private int getValue(char ch)
+        {
+            switch(ch)
+            {
+                case 'I':
+                 return 1;
+                case 'V':
+                    return 5;
+                case 'X':
+                    return 10;
+                case 'L':
+                    return 50;
+                case 'C':
+                    return 100;
+                case 'D':
+                    return 500;
+                case 'M':
+                    return 1000;
+                default:
+                    return 0;
+            }
+        }
+    
 }
