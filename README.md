@@ -124,6 +124,7 @@ Inside each folder you'll find the solution file in Java or C.
 | [0003-longest-substring-without-repeating-characters](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0014-longest-common-prefix) |
+| [0058-length-of-last-word](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0058-length-of-last-word) |
 | [0796-rotate-string](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0796-rotate-string) |
 | [1871-jump-game-vii](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1871-jump-game-vii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
