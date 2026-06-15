@@ -159,6 +159,7 @@ Inside each folder you'll find the solution file in Java or C.
 | ------- |
 | [0002-add-two-numbers](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0061-rotate-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Two Pointers
 |  |
@@ -168,6 +169,7 @@ Inside each folder you'll find the solution file in Java or C.
 | [0061-rotate-list](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0088-merge-sorted-array) |
 | [1861-rotating-the-box](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1861-rotating-the-box) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/2540-minimum-common-value) |
