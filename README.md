@@ -33,10 +33,10 @@ Inside each folder you'll find the solution file in Java or C.
 ## 📊 Progress
 | Difficulty | Count |
 |------------|-------|
-| 🟢 Easy    | 16     |
-| 🟡 Medium  | 27    |
+| 🟢 Easy    | 21     |
+| 🟡 Medium  | 32    |
 | 🔴 Hard    | 10     |
-| **Total**  | **53**|
+| **Total**  | **63**|
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
