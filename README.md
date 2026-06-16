@@ -56,6 +56,7 @@ Inside each folder you'll find the solution file in Java or C.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0189-rotate-array) |
 | [1306-jump-game-iii](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1345-jump-game-iv) |
@@ -147,6 +148,7 @@ Inside each folder you'll find the solution file in Java or C.
 | [0007-reverse-integer](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0189-rotate-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -175,6 +177,7 @@ Inside each folder you'll find the solution file in Java or C.
 | [0061-rotate-list](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0189-rotate-array) |
 | [1861-rotating-the-box](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1861-rotating-the-box) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
