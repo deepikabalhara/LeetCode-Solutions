@@ -135,6 +135,7 @@ Inside each folder you'll find the solution file in Java or C.
 | [3120-count-the-number-of-special-characters-i](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3838-weighted-word-mapping) |
 ## String Matching
 |  |
@@ -219,6 +220,7 @@ Inside each folder you'll find the solution file in Java or C.
 | [2161-partition-array-according-to-given-pivot](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3612-process-string-with-special-operations-i](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3838-weighted-word-mapping) |
 ## Recursion
 |  |
