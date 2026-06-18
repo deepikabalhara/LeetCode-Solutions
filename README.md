@@ -150,6 +150,7 @@ Inside each folder you'll find the solution file in Java or C.
 | [0013-roman-to-integer](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0189-rotate-array) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
