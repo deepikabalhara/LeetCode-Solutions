@@ -1,6 +1,6 @@
 ![Language](https://img.shields.io/badge/Language-Java-orange)
 ![Language](https://img.shields.io/badge/Language-C-blue)
-![Problems](https://img.shields.io/badge/Problems%20Solved-24+-brightgreen)
+![Problems](https://img.shields.io/badge/Problems%20Solved-50+-brightgreen)
 ![Status](https://img.shields.io/badge/Daily%20Practice-Active-success)
 
 # 🧩 LeetCode Daily Solutions
@@ -33,10 +33,10 @@ Inside each folder you'll find the solution file in Java or C.
 ## 📊 Progress
 | Difficulty | Count |
 |------------|-------|
-| 🟢 Easy    | 21     |
-| 🟡 Medium  | 32    |
-| 🔴 Hard    | 10     |
-| **Total**  | **63**|
+| 🟢 Easy    | 23     |
+| 🟡 Medium  | 35    |
+| 🔴 Hard    | 12     |
+| **Total**  | **70**|
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
