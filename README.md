@@ -60,6 +60,7 @@ Inside each folder you'll find the solution file in Java or C.
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0189-rotate-array) |
+| [0274-h-index](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0274-h-index) |
 | [1306-jump-game-iii](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1345-jump-game-iv) |
@@ -112,6 +113,7 @@ Inside each folder you'll find the solution file in Java or C.
 | ------- |
 | [0088-merge-sorted-array](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0274-h-index) |
 | [1340-jump-game-v](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1340-jump-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1833-maximum-ice-cream-bars) |
@@ -329,6 +331,7 @@ Inside each folder you'll find the solution file in Java or C.
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0274-h-index) |
 | [1833-maximum-ice-cream-bars](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
 
