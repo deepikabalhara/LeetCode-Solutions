@@ -49,6 +49,7 @@ Inside each folder you'll find the solution file in Java or C.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0045-jump-game-ii](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -95,6 +96,7 @@ Inside each folder you'll find the solution file in Java or C.
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -122,6 +124,7 @@ Inside each folder you'll find the solution file in Java or C.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
