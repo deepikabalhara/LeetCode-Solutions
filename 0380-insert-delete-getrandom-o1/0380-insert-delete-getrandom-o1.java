@@ -1,6 +1,6 @@
 class RandomizedSet {
-    private List<Integer> list;  //stores all elements -> allows random access
-        private Map<Integer , Integer> map;  // maps each value -> its index in the array
+    private List<Integer> list;  //stores all elements -> allows random access , used for getRandom()
+        private Map<Integer , Integer> map;  // maps each value -> its index in the array , to check if ana element exists and where it is
         private Random rand;
 
     public RandomizedSet() {//initialize 
@@ -13,18 +13,20 @@ class RandomizedSet {
         if(map.containsKey(val)){
             return false;
         }
-        list.add(val);
-        map.put(val , list.size()-1);
+        list.add(val); //add to end of list
+        map.put(val , list.size()-1); //record index in map
         return true;
     }
     
     public boolean remove(int val) {   // find index of element in hashmap , swap , update hashmap for the swapped element , pop the last element , avoids costly shifting
         if(!map.containsKey(val)) return false;
-        int idx = map.get(val);
-        int last = list.get(list.size()-1);
+        int idx = map.get(val);   //index of value
+        int last = list.get(list.size()-1);  // last element
 
         //swapping with last element
-        list.set(idx , last);
+        list.set(idx , last);  //(position , value) replaces the element at position with value
+
+        
         map.put(last,idx);
 
         //removing last
