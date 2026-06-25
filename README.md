@@ -1,6 +1,6 @@
 ![Language](https://img.shields.io/badge/Language-Java-orange)
 ![Language](https://img.shields.io/badge/Language-C-blue)
-![Problems](https://img.shields.io/badge/Problems%20Solved-24+-brightgreen)
+![Problems](https://img.shields.io/badge/Problems%20Solved-70+-brightgreen)
 ![Status](https://img.shields.io/badge/Daily%20Practice-Active-success)
 
 # 🧩 LeetCode Daily Solutions
