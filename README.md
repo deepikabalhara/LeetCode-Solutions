@@ -60,6 +60,7 @@ Inside each folder you'll find the solution file in Java or C.
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [1306-jump-game-iii](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1306-jump-game-iii) |
@@ -258,6 +259,7 @@ Inside each folder you'll find the solution file in Java or C.
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0238-product-of-array-except-self) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1871-jump-game-vii) |
