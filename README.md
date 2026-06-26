@@ -96,6 +96,7 @@ Inside each folder you'll find the solution file in Java or C.
 | [3689-maximum-total-subarray-value-i](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3838-weighted-word-mapping](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3838-weighted-word-mapping) |
 ## Greedy
 |  |
@@ -233,6 +234,7 @@ Inside each folder you'll find the solution file in Java or C.
 | [3121-count-the-number-of-special-characters-ii](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -266,6 +268,7 @@ Inside each folder you'll find the solution file in Java or C.
 | [2574-left-and-right-sum-differences](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -288,6 +291,7 @@ Inside each folder you'll find the solution file in Java or C.
 | [0004-median-of-two-sorted-arrays](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0169-majority-element) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -315,6 +319,7 @@ Inside each folder you'll find the solution file in Java or C.
 | [3161-block-placement-queries](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3161-block-placement-queries) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -352,6 +357,7 @@ Inside each folder you'll find the solution file in Java or C.
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Design
 |  |
 | ------- |
