@@ -75,6 +75,7 @@ Inside each folder you'll find the solution file in Java or C.
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1861-rotating-the-box](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1914-cyclically-rotating-a-grid) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2126-destroying-asteroids](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -158,6 +159,7 @@ Inside each folder you'll find the solution file in Java or C.
 | [0796-rotate-string](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0796-rotate-string) |
 | [1189-maximum-number-of-balloons](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1871-jump-game-vii](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1871-jump-game-vii) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
