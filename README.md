@@ -91,6 +91,7 @@ Inside each folder you'll find the solution file in Java or C.
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3093-longest-common-suffix-queries) |
 | [3161-block-placement-queries](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3161-block-placement-queries) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -201,6 +202,7 @@ Inside each folder you'll find the solution file in Java or C.
 | [1861-rotating-the-box](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Linked List
 |  |
 | ------- |
@@ -255,6 +257,7 @@ Inside each folder you'll find the solution file in Java or C.
 | [1306-jump-game-iii](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1345-jump-game-iv) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Number Theory
 |  |
@@ -356,6 +359,7 @@ Inside each folder you'll find the solution file in Java or C.
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Counting
 |  |
@@ -389,6 +393,14 @@ Inside each folder you'll find the solution file in Java or C.
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Graph Theory
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
 
 
