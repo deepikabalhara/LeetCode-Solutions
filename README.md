@@ -63,6 +63,7 @@ Inside each folder you'll find the solution file in Java or C.
 | [0238-product-of-array-except-self](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [1301-number-of-paths-with-max-score](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1345-jump-game-iv) |
@@ -142,6 +143,7 @@ Inside each folder you'll find the solution file in Java or C.
 | [0055-jump-game](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1301-number-of-paths-with-max-score](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1340-jump-game-v) |
 | [1871-jump-game-vii](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1871-jump-game-vii) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -201,6 +203,7 @@ Inside each folder you'll find the solution file in Java or C.
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0048-rotate-image) |
+| [1301-number-of-paths-with-max-score](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1861-rotating-the-box](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
