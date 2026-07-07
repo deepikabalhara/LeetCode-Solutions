@@ -201,6 +201,7 @@ Inside each folder you'll find the solution file in Java or C.
 | [3700-number-of-zigzag-arrays-ii](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Matrix
 |  |
 | ------- |
