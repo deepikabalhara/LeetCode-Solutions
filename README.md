@@ -66,6 +66,7 @@ Inside each folder you'll find the solution file in Java or C.
 | [1288-remove-covered-intervals](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1306-jump-game-iii) |
+| [1331-rank-transform-of-an-array](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1345-jump-game-iv) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -130,6 +131,7 @@ Inside each folder you'll find the solution file in Java or C.
 | [0169-majority-element](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0274-h-index) |
 | [1288-remove-covered-intervals](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1340-jump-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1833-maximum-ice-cream-bars) |
@@ -252,6 +254,7 @@ Inside each folder you'll find the solution file in Java or C.
 | [0169-majority-element](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [1189-maximum-number-of-balloons](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
