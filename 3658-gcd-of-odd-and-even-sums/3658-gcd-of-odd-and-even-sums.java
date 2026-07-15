@@ -1,11 +1,8 @@
 class Solution {
     public int gcdOfOddEvenSums(int n) {
-        int sumofeven =0;
-        int sumofodd=0;
-        for(int i=1 ; i<=n;i++){
-           sumofodd += 2*i-1;
-           sumofeven += 2*i;
-        }
+        int sumofeven = n*n;
+        int sumofodd=n*(n+1);
+    
         return gcd(sumofodd , sumofeven);
 
     }
