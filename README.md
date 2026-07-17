@@ -96,6 +96,7 @@ Inside each folder you'll find the solution file in Java or C.
 | [3161-block-placement-queries](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3161-block-placement-queries) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3312-sorted-gcd-pair-queries](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -206,6 +207,7 @@ Inside each folder you'll find the solution file in Java or C.
 | [1344-angle-between-hands-of-a-clock](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1840-maximum-building-height) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3312-sorted-gcd-pair-queries](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -274,6 +276,7 @@ Inside each folder you'll find the solution file in Java or C.
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3312-sorted-gcd-pair-queries](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -290,6 +293,7 @@ Inside each folder you'll find the solution file in Java or C.
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -316,6 +320,7 @@ Inside each folder you'll find the solution file in Java or C.
 | [1732-find-the-highest-altitude](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1871-jump-game-vii) |
 | [2574-left-and-right-sum-differences](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/2574-left-and-right-sum-differences) |
+| [3312-sorted-gcd-pair-queries](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -330,6 +335,7 @@ Inside each folder you'll find the solution file in Java or C.
 | [2540-minimum-common-value](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3161-block-placement-queries](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3161-block-placement-queries) |
+| [3312-sorted-gcd-pair-queries](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -406,6 +412,7 @@ Inside each folder you'll find the solution file in Java or C.
 | ------- |
 | [0169-majority-element](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1189-maximum-number-of-balloons) |
+| [3312-sorted-gcd-pair-queries](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Stack
 |  |
@@ -452,6 +459,10 @@ Inside each folder you'll find the solution file in Java or C.
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3620-network-recovery-pathways) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
 
 
