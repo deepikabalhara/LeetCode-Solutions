@@ -117,6 +117,7 @@ Inside each folder you'll find the solution file in Java or C.
 | [0045-jump-game-ii](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -177,6 +178,7 @@ Inside each folder you'll find the solution file in Java or C.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0058-length-of-last-word) |
 | [0796-rotate-string](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0796-rotate-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1871-jump-game-vii](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1871-jump-game-vii) |
@@ -417,6 +419,7 @@ Inside each folder you'll find the solution file in Java or C.
 ## Stack
 |  |
 | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Counting Sort
 |  |
@@ -463,6 +466,10 @@ Inside each folder you'll find the solution file in Java or C.
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
 
 
