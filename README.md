@@ -63,6 +63,7 @@ Inside each folder you'll find the solution file in Java or C.
 | [0238-product-of-array-except-self](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [1260-shift-2d-grid](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1306-jump-game-iii) |
@@ -225,6 +226,7 @@ Inside each folder you'll find the solution file in Java or C.
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/0048-rotate-image) |
+| [1260-shift-2d-grid](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1861-rotating-the-box](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1914-cyclically-rotating-a-grid) |
@@ -303,6 +305,7 @@ Inside each folder you'll find the solution file in Java or C.
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1260-shift-2d-grid) |
 | [1914-cyclically-rotating-a-grid](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/deepikabalhara/LeetCode-Daily-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
